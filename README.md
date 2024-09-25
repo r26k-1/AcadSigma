@@ -1,4 +1,4 @@
-# AcadSigma: AI Analytics Platform
+# AcadSigma: AI Analytics Platform1
 
 ## Project Overview
 AcadSigma is an AI-driven platform designed to analyze large datasets and provide actionable insights. By leveraging advanced AI techniques, including machine learning (ML) and large language models (LLMs), the system extracts insights and delivers comprehensive analytics reports.
